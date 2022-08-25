@@ -1,0 +1,2 @@
+# Automated-Stock-News-Text-Messenger
+If a stock moves more than five percent in the last two days, a text message will be sent to the user containing the exact percentage movement of the stock as well as three news articles to explain it.  This program utilises API for three functions: stock price by Alpha Vantage, news by NewsCatcher and text messaging services by Twilio.  Furthermore the JSON data is parsed to obtain the relevant information.
