@@ -6,3 +6,10 @@ If a stock moves more than five percent in the last two days, a text message wil
 
 
 Figure 1: The information recieved by the phone via sms
+
+The top 3 news articles on the company (in this case Tesla) is sent to the user as seen in figure 1.
+#
+![image](https://user-images.githubusercontent.com/96390217/186744015-62359054-1d2a-4007-917e-a6bda890b5c7.png)
+![image](https://user-images.githubusercontent.com/96390217/186744101-cfd600ba-df75-4b6b-afcb-88b00e1407aa.png)
+
+Figure 2: The top 3 news articles for Nvidia
