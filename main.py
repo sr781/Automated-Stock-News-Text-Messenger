@@ -2,7 +2,7 @@ import requests
 from datetime import date
 from twilio.rest import Client
 import os
-TWILIO_ACCOUNT_SID = os.environ["TWILIO_ACCOUNT_SID"]  # Using environment variables to store data locally
+TWILIO_ACCOUNT_SID = os.environ["TWILIO_ACCOUNT_SID"]  # Using environment variables to store data locally for security
 TWILIO_AUTH_TOKEN = os.environ["TWILIO_AUTH_TOKEN"]
 text_message = ""
 STOCK = "TSLA"  # The stock we will need news for is tesla
